@@ -1,0 +1,32 @@
+body{
+  background: rgb(192,224,228);
+  font-family: 'Rowdies',cursive;
+  font-size:15px;
+  text-align:center;
+  color: rgb(156, 99, 99)
+}
+
+button{
+  background-color:#303242;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#container{
+  padding: 5px 5px;
+  margin: 4px 2px;
+}
+#type{
+  padding: 5px 5px;
+  margin: 6px 2px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
